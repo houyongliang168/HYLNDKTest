@@ -11,8 +11,9 @@ public class Test1 {
     }
 
     public static void main(String[] args) {
-//            if (TextUtils.isEmpty("adfasf")) {
-//                System.out.println("测试中");
-//            }
+            if (TextUtils.isEmpty("adfasf")) {
+                System.out.println("测试中");
+                System.out.println("测试中2");
+            }
     }
 }
