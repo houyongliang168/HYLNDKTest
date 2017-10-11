@@ -8,12 +8,11 @@ import android.text.TextUtils;
 
 public class Test1 {
     public void test() {
+        System.out.println("测试9");
     }
 
     public static void main(String[] args) {
-//            if (TextUtils.isEmpty("adfasf")) {
-//                System.out.println("测试中");
-//            }
+//            if (TextUtils.isEmpty("adfasf")) { System.out.println("测试中"); }
         System.out.println("测试中5");
         System.out.println("测试中7");
         System.out.println("测试中8");
